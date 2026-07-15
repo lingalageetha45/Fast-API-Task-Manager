@@ -56,9 +56,6 @@ Each task belongs to the authenticated user, ensuring users can only access and 
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/<your-github-username>/TaskManagerApi.git
-cd TaskManagerApi
 ```
 
 ### Create a Virtual Environment
